@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "笔记", "笔记", "{BCD3ACFC-AA8D-41C7-A814-15A71189FD2E}"
 	ProjectSection(SolutionItems) = preProject
 		算法概念笔记.md = 算法概念笔记.md
+		错题集.md = 错题集.md
 	EndProjectSection
 EndProject
 Global
